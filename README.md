@@ -6,9 +6,9 @@
 
 
 
-\*\*NIM:\*\* 251080200077  
+\*\*NIM:\*\* 251080200077
 
-\*\*Nama:\*\* NAYLA\_RAHMA\_ALMUMIN  
+\*\*Nama:\*\* NAYLA\_RAHMA\_ALMUMIN
 
 \*\*Framework Pilihan:\*\* Python \[7] - Bottle
 
@@ -18,5 +18,5 @@
 
 
 
-!\[Hello World](Screenshot%202026-09-23%20093423.png)
+!\[Hello World](Screenshot.png)
 
