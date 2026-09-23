@@ -18,5 +18,5 @@
 
 
 
-!\[Hello World](https://raw.githubusercontent.com/nayylanaya-dotcom/PBL0101---Tugas-Bottle/main/screenshot.png)
+!\[Hello World](./screenshot.png)
 
