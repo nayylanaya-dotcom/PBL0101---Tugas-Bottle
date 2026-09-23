@@ -18,5 +18,5 @@
 
 
 
-!\[Hello World](./screenshot.png)
+![Hello World](./screenshot.png)
 
