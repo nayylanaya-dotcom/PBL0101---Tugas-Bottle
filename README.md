@@ -10,7 +10,7 @@
 
 \*\*Nama:\*\* NAYLA\_RAHMA\_ALMUMIN
 
-\*\*Framework Pilihan:\*\* Python \[7] - Bottle
+\*\*Framework Pilihan:\*\* Python \[7] - Bottle.
 
 
 
