@@ -7,3 +7,6 @@
 Tampilan Hello World
 
 ![Hello World](./screenshot.png)
+
+url deploy 
+https://professor-amigo-ruse.ngrok-free.dev
